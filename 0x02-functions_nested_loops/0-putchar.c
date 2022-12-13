@@ -1,4 +1,4 @@
-#include "main.h"
+nclude "main.h"
 
 
 
@@ -37,5 +37,3 @@ int main(void)
 						return (0);
 
 }
-
-
